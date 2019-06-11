@@ -20,3 +20,8 @@ Projetos
            feitas dos pinos analógicos A0 e A1.
            
            
+3 - Elevador:
+
+           Exemplo do controle de um elevador via máquina de
+           estados. A comunicação serial é usada para indicar
+           o estado atual do elevador.
